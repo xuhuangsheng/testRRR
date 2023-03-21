@@ -1,0 +1,4108 @@
+{
+  "accessors": [
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478255.732815828, 3430948.767184172, 106.7112161553379],
+      "min": [478227.424184172, 3430920.486184172, 98.83619417195898],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478262.11436248163, 3430954.0099902297, 106.72064996090907],
+      "min": [478232.68563751836, 3430926.735637518, 98.8356475183195],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478262.11693307274, 3430954.0105510503, 98.86694307278943],
+      "min": [478227.42106692726, 3430920.483066927, 98.83307692721057],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 234,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 91,
+      "type": "VEC3",
+      "max": [478238.35202051786, 3430954.0053737178, 106.04417850268686],
+      "min": [478227.4326262824, 3430942.9946262822, 104.54491128236444],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 91,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 84,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 58,
+      "type": "VEC3",
+      "max": [478241.2229662921, 3430948.25447191, 108.89337488764369],
+      "min": [478233.09603370784, 3430941.2460337076, 104.54631870786517],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 58,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 270,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 105,
+      "type": "VEC3",
+      "max": [478262.11168783583, 3430947.763312164, 108.89651908353689],
+      "min": [478234.86168783583, 3430920.486687836, 106.68669983585735],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 105,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478274.4828099658, 3430967.519, 106.70788054224893],
+      "min": [478246.1861900342, 3430939.236190034, 98.8362000341964],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478280.8583839765, 3430972.757635564, 106.7180451734137],
+      "min": [478251.3856160235, 3430945.4856160237, 98.83562602344897],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478280.86092427943, 3430972.760073278, 98.8669342794333],
+      "min": [478246.18307572056, 3430939.2330757207, 98.8330857205667],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 234,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 91,
+      "type": "VEC3",
+      "max": [478257.0710307768, 3430972.7553737178, 106.04417850268686],
+      "min": [478246.1946262824, 3430961.7446262822, 104.54491128236444],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 91,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 84,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 58,
+      "type": "VEC3",
+      "max": [478259.9729692232, 3430967.0056790425, 108.89261523937469],
+      "min": [478251.84003077674, 3430959.9960307768, 104.54631577674645],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 58,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 270,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 105,
+      "type": "VEC3",
+      "max": [478280.86331216415, 3430966.513312164, 108.89651908353689],
+      "min": [478253.5866878358, 3430939.236687836, 106.68669983585735],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 105,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478293.232815828, 3430986.267184172, 106.7112161553379],
+      "min": [478264.924184172, 3430957.986184172, 98.83619417195898],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478299.5773659013, 3430991.5164807034, 106.70815802149662],
+      "min": [478270.1416340987, 3430964.2356340988, 98.83564409868099],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478299.57991499756, 3430991.508610161, 98.8669249975574],
+      "min": [478264.9210850025, 3430957.9830850023, 98.83309500244259],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 234,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 91,
+      "type": "VEC3",
+      "max": [478275.80365705915, 3430991.5053737178, 106.04417850268686],
+      "min": [478264.9326262824, 3430980.4946262822, 104.54491128236444],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 91,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 84,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 58,
+      "type": "VEC3",
+      "max": [478278.7229662921, 3430985.75447191, 108.89337488764369],
+      "min": [478270.59603370784, 3430978.7460337076, 104.54631870786517],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 58,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 270,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 105,
+      "type": "VEC3",
+      "max": [478299.5806878358, 3430985.263312164, 108.89651908353689],
+      "min": [478272.3306878358, 3430957.986687836, 106.68669983585735],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 105,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478311.9518163166, 3431005.0181836835, 106.71149412310879],
+      "min": [478283.64218368346, 3430976.7361836834, 98.83619368343918],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478318.31436248164, 3431010.2599902297, 106.72064996090907],
+      "min": [478288.88563751837, 3430982.985637518, 98.8356475183195],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 54,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "max": [478318.31692427944, 3431010.260073278, 98.8669342794333],
+      "min": [478283.63907572057, 3430976.7330757207, 98.8330857205667],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 17,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 234,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 91,
+      "type": "VEC3",
+      "max": [478294.57002051786, 3431010.2553737178, 106.04417850268686],
+      "min": [478283.6506262824, 3430999.2446262822, 104.54491128236444],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 91,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 84,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 58,
+      "type": "VEC3",
+      "max": [478297.441975574, 3431004.504961407, 108.89161181975508],
+      "min": [478289.296024426, 3430997.496024426, 104.54630942598924],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 58,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 270,
+      "type": "SCALAR",
+      "name": "母线洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 105,
+      "type": "VEC3",
+      "max": [478318.3100635075, 3431004.013312164, 108.89651908353689],
+      "min": [478291.0866878358, 3430976.736687836, 106.68669983585735],
+      "name": "母线洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 105,
+      "type": "VEC3",
+      "name": "母线洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "max": [478236.292876893, 3430961.764492428, 84.40921025404221],
+      "min": [478211.957123107, 3430937.488123107, 75.98849310698581],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 480,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 240,
+      "type": "VEC3",
+      "max": [478295.40693698096, 3430941.7810210064, 84.95703441621886],
+      "min": [478231.96897899365, 3430878.2189789936, 78.00832899364924],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 240,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 132,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 122,
+      "type": "VEC3",
+      "max": [478236.5368920176, 3430943.5047384757, 84.44447309721544],
+      "min": [478230.33987690276, 3430937.2458769027, 75.99624690278456],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 122,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "max": [478255.0428861749, 3430980.5096829506, 84.41578182218073],
+      "min": [478230.6881138251, 3430956.238113825, 75.98848382510992],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 480,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 240,
+      "type": "VEC3",
+      "max": [478314.15693698096, 3430960.5310210064, 84.95703441621886],
+      "min": [478250.71897899365, 3430896.9689789936, 78.00832899364924],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 240,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 132,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 122,
+      "type": "VEC3",
+      "max": [478255.2846458231, 3430962.2547384757, 84.44447309721544],
+      "min": [478249.09587690275, 3430955.9958769027, 75.99624690278456],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 122,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "max": [478273.761876893, 3430999.264492428, 84.40921025402207],
+      "min": [478249.426123107, 3430974.988123107, 75.98849310698584],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 480,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 240,
+      "type": "VEC3",
+      "max": [478332.8759159746, 3430979.2810210064, 84.95703441621886],
+      "min": [478269.46897899365, 3430915.7189789936, 78.00832899364924],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 240,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 132,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 122,
+      "type": "VEC3",
+      "max": [478274.03412298975, 3430981.0047384757, 84.44447309721544],
+      "min": [478267.79587690276, 3430974.7458769027, 75.99624690278456],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 122,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "max": [478292.5118710308, 3431018.0143869077, 84.41693082070921],
+      "min": [478268.1881289692, 3430993.7381289694, 75.98849896922326],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 480,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 240,
+      "type": "VEC3",
+      "max": [478351.62593698094, 3430998.0310210064, 84.95703441621886],
+      "min": [478288.18797899364, 3430934.4689789936, 78.00832899364924],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 240,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 132,
+      "type": "SCALAR",
+      "name": "尾水支管_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 122,
+      "type": "VEC3",
+      "max": [478292.7558920176, 3430999.7547384757, 84.44447309721544],
+      "min": [478286.5588769028, 3430993.4958769027, 75.99624690278456],
+      "name": "尾水支管_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 122,
+      "type": "VEC3",
+      "name": "尾水支管_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478190.55628660775, 3430950.776319385, 126.02024640757205],
+      "min": [478174.9486775924, 3430935.2296775924, 84.37963329242795],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478210.5156417926, 3430930.776319385, 126.02024640757205],
+      "min": [478194.9486775924, 3430915.2296775924, 84.37963329242795],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478210.5173575965, 3430950.7636424038, 84.41731329648267],
+      "min": [478174.9516424035, 3430915.2326424033, 84.38259810351734],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 84,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 30,
+      "type": "VEC3",
+      "max": [478195.00303389604, 3430935.284033896, 133.01334600698584],
+      "min": [478174.945262993, 3430915.226262993, 84.37621869301417],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 30,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478277.1983180264, 3431037.2903639474, 126.04895427454812],
+      "min": [478190.48868197366, 3430950.7076819735, 83.85788197361993],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478297.1652418173, 3431017.5423790915, 126.02501680508061],
+      "min": [478210.4576209086, 3430930.7076209085, 83.8578209086468],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478297.17707327794, 3431037.291926722, 83.95227327796775],
+      "min": [478190.4789267221, 3430930.697926722, 83.84812672203225],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 84,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 82,
+      "type": "VEC3",
+      "max": [478210.53138867713, 3430950.7743699583, 133.01386428138738],
+      "min": [478190.50701871864, 3430930.7260187184, 83.8762187186126],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 82,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478282.3212418173, 3431032.2923790915, 83.93400556912556],
+      "min": [478195.61362090864, 3430945.4576209085, 72.95782090864681],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478285.74232388864, 3431028.8023522226, 83.96208715192813],
+      "min": [478199.0206761114, 3430942.2076761113, 72.95787611138252],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478285.7439882755, 3431032.2939999998, 73.04418827552516],
+      "min": [478195.6120117245, 3430942.2060117247, 72.95621172447485],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [478199.0692388862, 3430945.5034929165, 83.90552486565706],
+      "min": [478195.6506751344, 3430942.2446751343, 72.99487513434295],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [478285.7048886175, 3431032.2537616026, 83.90552486565706],
+      "min": [478282.2756751344, 3431028.7446751343, 72.99487513434295],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478307.92102198343, 3431068.0150219835, 125.96502026135808],
+      "min": [478277.1409780166, 3431037.2349780165, 105.38490301660967],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478327.9150341964, 3431048.2599658035, 125.96670565463207],
+      "min": [478297.1099658036, 3431017.4849658036, 105.38489080361504],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478327.924789448, 3431068.0208949684, 105.42471444797265],
+      "min": [478277.13121055206, 3431017.475210552, 105.37513555202734],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 1134,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 221,
+      "type": "VEC3",
+      "max": [478327.97470981925, 3431068.1062901807, 133.04735382853144],
+      "min": [478174.89429018076, 3430915.175290181, 125.8752111807523],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 221,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 78,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 28,
+      "type": "VEC3",
+      "max": [478327.9097703957, 3431068.0057401075, 132.94552432193456],
+      "min": [478307.8902296043, 3431048.2402296043, 125.94015060429898],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 28,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478327.90788570006, 3431068.006908709, 125.95996007962873],
+      "min": [478307.8899609204, 3431048.2399609205, 105.38988592037127],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主厂房_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478297.13278404984, 3431037.256220188, 105.41042804103566],
+      "min": [478277.145496959, 3431017.489496959, 83.88969695896434],
+      "name": "主厂房_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主厂房_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 966,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 194,
+      "type": "VEC3",
+      "max": [478360.72543087445, 3431010.5555691253, 125.57061283488032],
+      "min": [478218.4615691256, 3430868.4305691253, 120.43272812554959],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 194,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 66,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "max": [478360.6632574499, 3431010.504395701, 125.49528454959447],
+      "min": [478345.7927425501, 3430995.74274255, 120.49490155007327],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 66,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "max": [478233.3822515877, 3430883.2569809477, 125.49850291792288],
+      "min": [478218.5237484123, 3430868.4927484123, 120.49490741231071],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478360.6653244748, 3431010.5105255498, 120.51022045578897],
+      "min": [478345.7919385442, 3430995.7419385444, 103.99229754421104],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478233.3802015633, 3430883.2605255498, 120.51022045578897],
+      "min": [478218.5229385442, 3430868.4919385444, 103.99229754421104],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478345.8621734245, 3431010.5811734246, 120.53848992329864],
+      "min": [478218.4688265755, 3430883.1878265752, 103.93818557547633],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478360.7181792868, 3430995.843179287, 120.54004927845853],
+      "min": [478233.3128207132, 3430868.437820713, 103.93817971323888],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478360.72543087445, 3431010.5555691253, 104.06978987445042],
+      "min": [478218.4615691256, 3430868.4305691253, 103.93092812554958],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478345.8621734245, 3431010.5811734246, 104.07292765998903],
+      "min": [478218.4688265755, 3430883.1878265752, 98.78818657547632],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478348.6871792868, 3431007.843179287, 104.07342008793427],
+      "min": [478221.2818207132, 3430880.437820713, 98.78818071323887],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478348.6885534929, 3431010.594, 98.91391349291645],
+      "min": [478218.46744650713, 3430880.436446507, 98.78680650708354],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [478221.34626569663, 3430883.2523687864, 104.00287487640449],
+      "min": [478218.5284841236, 3430880.497484124, 98.84784412359551],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR",
+      "name": "主变洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [478348.62784507865, 3431010.5023687864, 104.00287487640449],
+      "min": [478345.79748412356, 3431007.747484124, 98.84784412359551],
+      "name": "主变洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "name": "主变洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 990,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 194,
+      "type": "VEC3",
+      "max": [478361.1478192477, 3430955.0401807525, 108.54954636834391],
+      "min": [478278.8978192477, 3430872.7098192475, 106.46014724767953],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 194,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478354.6509946263, 3430955.0370053737, 106.52044340498291],
+      "min": [478278.9009946263, 3430879.2129946263, 89.31294462628237],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478361.1509946263, 3430948.5370053737, 106.52044340498291],
+      "min": [478285.4009946263, 3430872.7129946263, 89.31294462628237],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC3",
+      "max": [478285.44598999125, 3430879.257989991, 108.4998975603322],
+      "min": [478278.9286494397, 3430872.74064944, 89.34059943966781],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC3",
+      "max": [478361.1079899912, 3430955.007989991, 108.4998975603322],
+      "min": [478354.59064943966, 3430948.49064944, 89.34059943966781],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478361.1478192477, 3430955.0401807525, 89.39013075232047],
+      "min": [478278.8978192477, 3430872.7098192475, 89.30976924767954],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478354.6509946263, 3430955.0370053737, 106.52044340498291],
+      "min": [478278.9009946263, 3430879.2129946263, 89.31294462628237],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478361.1509946263, 3430948.5370053737, 106.52044340498291],
+      "min": [478285.4009946263, 3430872.7129946263, 89.31294462628237],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC3",
+      "max": [478285.44598999125, 3430879.257989991, 108.4998975603322],
+      "min": [478278.9286494397, 3430872.74064944, 89.34059943966781],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC3",
+      "max": [478361.1079899912, 3430955.007989991, 108.4998975603322],
+      "min": [478354.59064943966, 3430948.49064944, 89.34059943966781],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 46,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 18,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "max": [478361.1478192477, 3430955.0401807525, 89.39013075232047],
+      "min": [478278.8978192477, 3430872.7098192475, 89.30976924767954],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 7,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC3",
+      "max": [478296.10776327894, 3430890.0034643235, 89.35598321729361],
+      "min": [478283.7939667827, 3430877.743966783, 76.9939209827064],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC3",
+      "max": [478314.85082971357, 3430908.7534643235, 89.35598321729361],
+      "min": [478302.5249667827, 3430896.493966783, 76.9939209827064],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC3",
+      "max": [478333.6068629308, 3430927.5034643235, 89.35598321729361],
+      "min": [478321.2749667827, 3430915.243966783, 76.9939209827064],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC3",
+      "max": [478352.3085971925, 3430946.2534643235, 89.35598321729361],
+      "min": [478340.0249667827, 3430933.993966783, 76.9939209827064],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 10,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [478296.10600879334, 3430890.0079384465, 77.00596299335614],
+      "min": [478283.7939912066, 3430877.743991207, 76.99394540664387],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [478314.8500151441, 3430908.758863703, 77.00596934411332],
+      "min": [478302.5249848559, 3430896.4939848557, 76.99393905588668],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [478333.6060180752, 3430927.5088192476, 77.00597227523203],
+      "min": [478321.2749819248, 3430915.243981925, 76.99393612476798],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR",
+      "name": "尾闸室_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "max": [478352.30599364924, 3430946.2570127016, 77.00594784924279],
+      "min": [478340.02500635077, 3430933.9940063506, 76.99396055075722],
+      "name": "尾闸室_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "name": "尾闸室_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR",
+      "name": "引水洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "max": [478199.1671748901, 3430967.2601367855, 92.01178553981437],
+      "min": [478176.2698251099, 3430955.73882511, 87.98882510991695],
+      "name": "引水洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "name": "引水洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR",
+      "name": "引水洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "max": [478217.911171959, 3430986.0071177334, 92.01073326819842],
+      "min": [478195.019828041, 3430974.488828041, 87.98882804103566],
+      "name": "引水洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "name": "引水洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR",
+      "name": "引水洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "max": [478236.66719003423, 3431004.7645451883, 92.00603224230883],
+      "min": [478213.7388099658, 3430993.238809966, 87.98880996580361],
+      "name": "引水洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "name": "引水洞_normals"
+    },
+    {
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR",
+      "name": "引水洞_indices"
+    },
+    {
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "max": [478255.3861748901, 3431023.5101367855, 92.01178553981437],
+      "min": [478232.4888251099, 3431011.98882511, 87.98882510991695],
+      "name": "引水洞_positions"
+    },
+    {
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "name": "引水洞_normals"
+    }
+  ],
+  "asset": {
+    "copyright": "加华地学",
+    "generator": "CnGIM_ma",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "地下厂房结构模型压缩",
+      "byteLength": 25624,
+      "uri": "data:application/octet-stream;base64,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"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 203
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 208,
+      "byteLength": 208
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 416,
+      "byteLength": 180
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 600,
+      "byteLength": 460
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1064,
+      "byteLength": 319
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1384,
+      "byteLength": 520
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1904,
+      "byteLength": 202
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2112,
+      "byteLength": 209
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2328,
+      "byteLength": 180
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2512,
+      "byteLength": 474
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2992,
+      "byteLength": 340
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3336,
+      "byteLength": 532
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3872,
+      "byteLength": 202
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4080,
+      "byteLength": 208
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4288,
+      "byteLength": 180
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4472,
+      "byteLength": 468
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4944,
+      "byteLength": 333
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5280,
+      "byteLength": 558
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5840,
+      "byteLength": 200
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6040,
+      "byteLength": 211
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6256,
+      "byteLength": 183
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6440,
+      "byteLength": 461
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6904,
+      "byteLength": 331
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7240,
+      "byteLength": 551
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7792,
+      "byteLength": 166
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7960,
+      "byteLength": 733
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8696,
+      "byteLength": 585
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 9288,
+      "byteLength": 164
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 9456,
+      "byteLength": 729
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10192,
+      "byteLength": 582
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10776,
+      "byteLength": 154
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10936,
+      "byteLength": 690
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11632,
+      "byteLength": 584
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12216,
+      "byteLength": 154
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12376,
+      "byteLength": 754
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13136,
+      "byteLength": 583
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13720,
+      "byteLength": 149
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13872,
+      "byteLength": 141
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14016,
+      "byteLength": 140
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14160,
+      "byteLength": 308
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14472,
+      "byteLength": 150
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14624,
+      "byteLength": 151
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14776,
+      "byteLength": 141
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14920,
+      "byteLength": 384
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15304,
+      "byteLength": 153
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15464,
+      "byteLength": 152
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15616,
+      "byteLength": 139
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15760,
+      "byteLength": 125
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15888,
+      "byteLength": 133
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16024,
+      "byteLength": 147
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16176,
+      "byteLength": 141
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16320,
+      "byteLength": 139
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16464,
+      "byteLength": 903
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17368,
+      "byteLength": 289
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17664,
+      "byteLength": 141
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17808,
+      "byteLength": 147
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17960,
+      "byteLength": 820
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 18784,
+      "byteLength": 269
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19056,
+      "byteLength": 264
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19320,
+      "byteLength": 146
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19472,
+      "byteLength": 146
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19624,
+      "byteLength": 152
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19776,
+      "byteLength": 152
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19928,
+      "byteLength": 140
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20072,
+      "byteLength": 141
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20216,
+      "byteLength": 150
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20368,
+      "byteLength": 137
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20512,
+      "byteLength": 124
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20640,
+      "byteLength": 124
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20768,
+      "byteLength": 840
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21608,
+      "byteLength": 152
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21760,
+      "byteLength": 152
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21912,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22200,
+      "byteLength": 293
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22496,
+      "byteLength": 140
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22640,
+      "byteLength": 152
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22792,
+      "byteLength": 152
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22944,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 23232,
+      "byteLength": 293
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 23528,
+      "byteLength": 140
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 23672,
+      "byteLength": 159
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 23832,
+      "byteLength": 159
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 23992,
+      "byteLength": 159
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24152,
+      "byteLength": 159
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24312,
+      "byteLength": 125
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24440,
+      "byteLength": 125
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24568,
+      "byteLength": 126
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24696,
+      "byteLength": 125
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24824,
+      "byteLength": 199
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 25024,
+      "byteLength": 194
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 25224,
+      "byteLength": 194
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 25424,
+      "byteLength": 194
+    }
+  ],
+  "materials": [
+    {
+      "name": "母线洞",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.8392157, 0.8745098, 0.9372549, 1],
+        "metallicFactor": 0.1,
+        "roughnessFactor": 0.7
+      },
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "alphaMode": "OPAQUE"
+    },
+    {
+      "name": "尾水支管",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.8392157, 0.8745098, 0.9372549, 1],
+        "metallicFactor": 0.1,
+        "roughnessFactor": 0.7
+      },
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "alphaMode": "OPAQUE"
+    },
+    {
+      "name": "主厂房",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.8392157, 0.8745098, 0.9372549, 1],
+        "metallicFactor": 0.1,
+        "roughnessFactor": 0.7
+      },
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "alphaMode": "OPAQUE"
+    },
+    {
+      "name": "主变洞",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.8392157, 0.8745098, 0.9372549, 1],
+        "metallicFactor": 0.1,
+        "roughnessFactor": 0.7
+      },
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "alphaMode": "OPAQUE"
+    },
+    {
+      "name": "尾闸室",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.8392157, 0.8745098, 0.9372549, 1],
+        "metallicFactor": 0.1,
+        "roughnessFactor": 0.7
+      },
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "alphaMode": "OPAQUE"
+    },
+    {
+      "name": "引水洞",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.8392157, 0.8745098, 0.9372549, 1],
+        "metallicFactor": 0.1,
+        "roughnessFactor": 0.7
+      },
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "alphaMode": "OPAQUE"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 1,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 7,
+            "NORMAL": 8
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 2,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 3,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 13,
+            "NORMAL": 14
+          },
+          "indices": 12,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 4,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 16,
+            "NORMAL": 17
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 5,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 19,
+            "NORMAL": 20
+          },
+          "indices": 18,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 6,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 22,
+            "NORMAL": 23
+          },
+          "indices": 21,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 7,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 25,
+            "NORMAL": 26
+          },
+          "indices": 24,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 8,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 28,
+            "NORMAL": 29
+          },
+          "indices": 27,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 9,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 31,
+            "NORMAL": 32
+          },
+          "indices": 30,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 10,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 34,
+            "NORMAL": 35
+          },
+          "indices": 33,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 11,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 37,
+            "NORMAL": 38
+          },
+          "indices": 36,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 12,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 40,
+            "NORMAL": 41
+          },
+          "indices": 39,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 13,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 43,
+            "NORMAL": 44
+          },
+          "indices": 42,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 14,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 46,
+            "NORMAL": 47
+          },
+          "indices": 45,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 15,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 49,
+            "NORMAL": 50
+          },
+          "indices": 48,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 16,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 52,
+            "NORMAL": 53
+          },
+          "indices": 51,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 17,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 55,
+            "NORMAL": 56
+          },
+          "indices": 54,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 18,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 58,
+            "NORMAL": 59
+          },
+          "indices": 57,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 19,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 61,
+            "NORMAL": 62
+          },
+          "indices": 60,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 20,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 64,
+            "NORMAL": 65
+          },
+          "indices": 63,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 21,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 67,
+            "NORMAL": 68
+          },
+          "indices": 66,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 22,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 70,
+            "NORMAL": 71
+          },
+          "indices": 69,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 23,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        }
+      ],
+      "name": "母线洞"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 73,
+            "NORMAL": 74
+          },
+          "indices": 72,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 24,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 76,
+            "NORMAL": 77
+          },
+          "indices": 75,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 25,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 79,
+            "NORMAL": 80
+          },
+          "indices": 78,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 26,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 82,
+            "NORMAL": 83
+          },
+          "indices": 81,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 27,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 85,
+            "NORMAL": 86
+          },
+          "indices": 84,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 28,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 88,
+            "NORMAL": 89
+          },
+          "indices": 87,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 29,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 91,
+            "NORMAL": 92
+          },
+          "indices": 90,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 30,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 94,
+            "NORMAL": 95
+          },
+          "indices": 93,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 31,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 97,
+            "NORMAL": 98
+          },
+          "indices": 96,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 32,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 100,
+            "NORMAL": 101
+          },
+          "indices": 99,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 33,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 103,
+            "NORMAL": 104
+          },
+          "indices": 102,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 34,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 106,
+            "NORMAL": 107
+          },
+          "indices": 105,
+          "material": 1,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 35,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        }
+      ],
+      "name": "尾水支管"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 109,
+            "NORMAL": 110
+          },
+          "indices": 108,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 36,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 112,
+            "NORMAL": 113
+          },
+          "indices": 111,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 37,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 115,
+            "NORMAL": 116
+          },
+          "indices": 114,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 38,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 118,
+            "NORMAL": 119
+          },
+          "indices": 117,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 39,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 121,
+            "NORMAL": 122
+          },
+          "indices": 120,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 40,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 124,
+            "NORMAL": 125
+          },
+          "indices": 123,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 41,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 127,
+            "NORMAL": 128
+          },
+          "indices": 126,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 42,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 130,
+            "NORMAL": 131
+          },
+          "indices": 129,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 43,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 133,
+            "NORMAL": 134
+          },
+          "indices": 132,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 44,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 136,
+            "NORMAL": 137
+          },
+          "indices": 135,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 45,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 139,
+            "NORMAL": 140
+          },
+          "indices": 138,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 46,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 142,
+            "NORMAL": 143
+          },
+          "indices": 141,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 47,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 145,
+            "NORMAL": 146
+          },
+          "indices": 144,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 48,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 148,
+            "NORMAL": 149
+          },
+          "indices": 147,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 49,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 151,
+            "NORMAL": 152
+          },
+          "indices": 150,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 50,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 154,
+            "NORMAL": 155
+          },
+          "indices": 153,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 51,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 157,
+            "NORMAL": 158
+          },
+          "indices": 156,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 52,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 160,
+            "NORMAL": 161
+          },
+          "indices": 159,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 53,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 163,
+            "NORMAL": 164
+          },
+          "indices": 162,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 54,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 166,
+            "NORMAL": 167
+          },
+          "indices": 165,
+          "material": 2,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 55,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        }
+      ],
+      "name": "主厂房"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 169,
+            "NORMAL": 170
+          },
+          "indices": 168,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 56,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 172,
+            "NORMAL": 173
+          },
+          "indices": 171,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 57,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 175,
+            "NORMAL": 176
+          },
+          "indices": 174,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 58,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 178,
+            "NORMAL": 179
+          },
+          "indices": 177,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 59,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 181,
+            "NORMAL": 182
+          },
+          "indices": 180,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 60,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 184,
+            "NORMAL": 185
+          },
+          "indices": 183,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 61,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 187,
+            "NORMAL": 188
+          },
+          "indices": 186,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 62,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 190,
+            "NORMAL": 191
+          },
+          "indices": 189,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 63,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 193,
+            "NORMAL": 194
+          },
+          "indices": 192,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 64,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 196,
+            "NORMAL": 197
+          },
+          "indices": 195,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 65,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 199,
+            "NORMAL": 200
+          },
+          "indices": 198,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 66,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 202,
+            "NORMAL": 203
+          },
+          "indices": 201,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 67,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 205,
+            "NORMAL": 206
+          },
+          "indices": 204,
+          "material": 3,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 68,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        }
+      ],
+      "name": "主变洞"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 208,
+            "NORMAL": 209
+          },
+          "indices": 207,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 69,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 211,
+            "NORMAL": 212
+          },
+          "indices": 210,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 70,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 214,
+            "NORMAL": 215
+          },
+          "indices": 213,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 71,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 217,
+            "NORMAL": 218
+          },
+          "indices": 216,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 72,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 220,
+            "NORMAL": 221
+          },
+          "indices": 219,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 73,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 223,
+            "NORMAL": 224
+          },
+          "indices": 222,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 74,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 226,
+            "NORMAL": 227
+          },
+          "indices": 225,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 75,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 229,
+            "NORMAL": 230
+          },
+          "indices": 228,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 76,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 232,
+            "NORMAL": 233
+          },
+          "indices": 231,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 77,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 235,
+            "NORMAL": 236
+          },
+          "indices": 234,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 78,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 238,
+            "NORMAL": 239
+          },
+          "indices": 237,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 79,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 241,
+            "NORMAL": 242
+          },
+          "indices": 240,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 80,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 244,
+            "NORMAL": 245
+          },
+          "indices": 243,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 81,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 247,
+            "NORMAL": 248
+          },
+          "indices": 246,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 82,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 250,
+            "NORMAL": 251
+          },
+          "indices": 249,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 83,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 253,
+            "NORMAL": 254
+          },
+          "indices": 252,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 84,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 256,
+            "NORMAL": 257
+          },
+          "indices": 255,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 85,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 259,
+            "NORMAL": 260
+          },
+          "indices": 258,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 86,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 262,
+            "NORMAL": 263
+          },
+          "indices": 261,
+          "material": 4,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 87,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        }
+      ],
+      "name": "尾闸室"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 265,
+            "NORMAL": 266
+          },
+          "indices": 264,
+          "material": 5,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 88,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 268,
+            "NORMAL": 269
+          },
+          "indices": 267,
+          "material": 5,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 89,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 271,
+            "NORMAL": 272
+          },
+          "indices": 270,
+          "material": 5,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 90,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 274,
+            "NORMAL": 275
+          },
+          "indices": 273,
+          "material": 5,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 91,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        }
+      ],
+      "name": "引水洞"
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "母线洞"
+    },
+    {
+      "mesh": 1,
+      "name": "尾水支管"
+    },
+    {
+      "mesh": 2,
+      "name": "主厂房"
+    },
+    {
+      "mesh": 3,
+      "name": "主变洞"
+    },
+    {
+      "mesh": 4,
+      "name": "尾闸室"
+    },
+    {
+      "mesh": 5,
+      "name": "引水洞"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [0, 1, 2, 3, 4, 5]
+    }
+  ],
+  "extensionsRequired": ["KHR_draco_mesh_compression"],
+  "extensionsUsed": ["KHR_draco_mesh_compression"]
+}
